@@ -1,0 +1,7 @@
+{
+  "name": "nahua.app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
